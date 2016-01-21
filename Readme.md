@@ -1,6 +1,7 @@
-# Учебный проект «Барбершоп»
+﻿# Учебный проект «Барбершоп»
 
 * Студент: [Katya Kotlyar](https://htmlacademy.ru/profile/id33122).
+* Наставник: [Владимир Смирнов](https://htmlacademy.ru/profile/mazax1ct)
 
 ---
 
